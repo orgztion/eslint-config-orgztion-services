@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-orgztion-services",
+  "version": "1.0.0",
+  "description": "Orgztion Services shared eslint-config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orgztion/eslint-config-orgztion-services.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "orgztion"
+  ],
+  "author": "Orgztion Services",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orgztion/eslint-config-orgztion-services/issues"
+  },
+  "homepage": "https://github.com/orgztion/eslint-config-orgztion-services#readme"
+}
